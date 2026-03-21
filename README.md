@@ -30,7 +30,4 @@ The goal is to simulate real-world workflows used in IT support and hardware rol
 - Structured step-by-step workflows  
 - Technical documentation  
 
----
-
-## Repository structure
 
