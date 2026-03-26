@@ -1,20 +1,22 @@
-# Internal Access and Battery Disconnection
+# Internal Access, NFC/Wireless Charging Removal, and Battery Disconnection
 
 ## Objective
 
-Access internal components and safely isolate power.
+Access internal components, remove upper assemblies, and safely isolate power.
 
 ## Actions Performed
 
 - Removed internal screws securing protective covers  
-- Detached internal shielding components  
-- Disconnected battery connector to isolate power  
+- Detached the wireless charging coil and NFC assembly  
+- Exposed the battery and internal frame  
+- Disconnected the battery connector to isolate power  
 
 ## Findings
 
+- NFC and wireless charging assembly successfully removed  
 - Battery safely disconnected  
-- Internal layout clearly accessible  
+- Internal layout fully accessible  
 
 ## Conclusion
 
-Device is safe to work on and ready for component-level inspection.
+Device is electrically safe and ready for deeper component-level work, including motherboard removal and further inspection.
